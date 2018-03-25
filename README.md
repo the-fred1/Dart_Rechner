@@ -3,4 +3,4 @@ Anzeige und Berechnung von Punkten die sich aus dem Steeldart ergeben.
 
 Für die Verwendung wird ein Arduino Mega, 4x4 Eingabefeld und ein 2,8" TFT benötigt.
 
-Die Pinsbelegung kann aus dem Code entnommen und oder geändert werden.
+Die Pinbelegung kann aus dem Code entnommen und oder geändert werden.
