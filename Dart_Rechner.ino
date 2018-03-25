@@ -1,5 +1,4 @@
 #include <IRremote.h>
-#include <math.h>
 #include <TFT.h>
 #include <TouchScreen.h>
 #include <Elegoo_TFTLCD.h>
@@ -108,7 +107,7 @@ void loop(void) {
       zweispieler = 0;
       anfang = 1;
     }
-    else if (anfang == 1) {
+    else if (anfang == 1 && player == 0) {
       zweispieler = 1;
       anfang = 0;
     }
