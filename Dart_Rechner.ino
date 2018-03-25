@@ -49,7 +49,7 @@ char keymap[numRows][numCols]
   {'7', '8', '9', 'C'},
   {'*', '0', '#', 'D'}
 };
-/* Dennis
+/* Alternative Belegung
 byte rowPins[numRows] = {23,25,27,29}; //Weiß
 byte colPins[numCols] = {22,24,26,28}; //Braun
 */
